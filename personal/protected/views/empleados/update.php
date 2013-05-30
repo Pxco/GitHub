@@ -1,6 +1,6 @@
 <?php
 $this->breadcrumbs=array(
-	'Empleadoses'=>array('index'),
+	'Empleados'=>array('index'),
 	$model->noempleado=>array('view','id'=>$model->noempleado),
 	'Update',
 );
